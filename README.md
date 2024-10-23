@@ -95,6 +95,6 @@ Contributions to this project are welcome in the form of suggestions or issues. 
 This project is licensed under the [MIT License](LICENSE). For details, see the [LICENSE](LICENSE) file.
 
 ---
-![Project Screenshot](project-screenshots/screenshots.png)
+![screenshots](https://github.com/user-attachments/assets/bb6e594c-eaef-422a-a219-992d161ee981)
 
 ```
