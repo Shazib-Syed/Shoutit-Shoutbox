@@ -1,4 +1,3 @@
-Opmerking: ik heb de readme zo gemaakt dat ik dit ook kan gebruiken voor mijn eigen gitgub.
 # Shout It - PHP Shoutbox
 
 **Shout It** Is a simple shoutbox website built using PHP and MySQL. This project allows users to post short public messages that are displayed on the webpage in real-time.
@@ -29,7 +28,7 @@ Opmerking: ik heb de readme zo gemaakt dat ik dit ook kan gebruiken voor mijn ei
 1. **Clone the Repository**
 
     ```bash
-    git clone link
+    git clone https://github.com/Shazib-Syed/Shoutit-Shoutbox.git
 
     // Got to your repository folder
     cd name
@@ -96,4 +95,6 @@ Contributions to this project are welcome in the form of suggestions or issues. 
 This project is licensed under the [MIT License](LICENSE). For details, see the [LICENSE](LICENSE) file.
 
 ---
+![Project Screenshot](project-screenshots/screenshots.png)
+
 ```
