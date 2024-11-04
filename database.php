@@ -1,6 +1,6 @@
 <?php
 // connect to sql database
-$con = mysqli_connect("localhost","bit_academy","bit_academy","shoutit");
+$con = mysqli_connect("localhost","","","shoutit");
 
 //test connection
 if(mysqli_connect_errno ()){
